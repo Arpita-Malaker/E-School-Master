@@ -1,0 +1,126 @@
+.signup{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 50px;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.head-part img{
+   
+    width: 100%;
+    }
+
+.head-part{
+    padding-top: 60px;
+    }
+
+.head-part-para{
+    padding-left:50px;
+}
+.bg-color{
+    background: linear-gradient(to bottom, #b9f3f3 0%, #d8fdd8 100%);
+}
+
+.color{
+    color: #36a73a;
+}
+
+.card-last{ 
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 5px lightgray;
+    padding: 25px;
+    width: 200px;
+    height: 200px;
+   
+
+}
+
+
+
+.card-text{
+    text-align: center;
+}
+.img-center{
+    padding-top: 5px;
+    width: 100px;
+    padding-left: 40px;
+}
+.categories{
+    padding-top: 50px;
+}
+
+.online-courses{
+    padding-top: 90px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.online-courses-img{
+    padding: 15px;
+}
+
+.card-footer img{
+    width: 20px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 15px 15px 15px lightgrey;
+}
+
+.card-footer{
+    font-size: 15px;
+    border: none;
+    background-color: white;
+}
+.testimonial img{
+    width: 140px;
+}
+
+
+
+.testimonial{
+    
+    padding-top: 100px;
+    padding-bottom: 100px;
+   
+}
+
+.testimonial-para{
+    padding-right: 200px;
+}
+
+.last-part{
+    font-size: 13px;
+    color: white;
+    background-color: rgb(44, 42, 42);
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.footer-para{
+    padding-right: 100px;
+}
+
+footer{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer-para-color{
+    font-size: 17px;
+    font-weight: 200px;
+}
+
+
